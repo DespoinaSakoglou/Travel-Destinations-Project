@@ -4,7 +4,7 @@ This repo is part of a mini project of the Udacity Full Stack Web Developer Nano
 
 ### Description
 
-A simple app to keep track of destinations I'd like to visit.
+A simple app to keep track of destinations I would like to visit.
 
 ### Required Libraries and Dependencies
 
